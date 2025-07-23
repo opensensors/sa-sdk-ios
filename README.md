@@ -1,3 +1,11 @@
+# OpenSensorsSDK (iOS)
+
+> Forked from [SensorsAnalyticsSDK](https://github.com/sensorsdata/sa-sdk-ios) version v1.18.2, the final version released under the Apache License 2.0.
+
+OpenSensorsSDK is a community-driven fork of the original Sensors Analytics iOS SDK. We aim to **keep it open**, **transparent**, and **community maintained**.
+
+This project was created in response to the license change in the original repository, and continues to follow the original open-source spirit.
+
 <img src="https://ow-file.sensorsdata.cn/www/home/header/sensors_header_icon.svg" width="200" >
 
 [![License](https://img.shields.io/github/license/sensorsdata/sa-sdk-ios.svg)](https://github.com/sensorsdata/sa-sdk-ios/blob/master/LICENSE)
